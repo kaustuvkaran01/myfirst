@@ -1,2 +1,4 @@
-# myfirst
-My first repository containing c++ and c codes by kaustuv karan!
+# My First Repository
+My first repository on GITHUB 
+Containing c and c+ codes 
+by kaustuv karan!
